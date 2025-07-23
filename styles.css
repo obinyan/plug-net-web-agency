@@ -553,8 +553,8 @@ footer p {
     border: none;
   }
   .heading {
-    position: static;
-    margin-top: 25rem;
+    position: absolute;
+    /*margin-top: 25rem;*/
   }
   .heading img {
     width: 100%;
