@@ -336,7 +336,8 @@ header{
 }
 
 .contact-info a i {
-    font-size: 1.2rem;
+    font-size: 2rem;
+    margin-top: 5px;
     margin-right: 10px;
     color: #fff;
     transition: color 0.3s;
