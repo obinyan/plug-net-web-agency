@@ -473,7 +473,7 @@ footer p {
     width: 100%;
   }
   .nav-bar ul {
-    flex-direction: column;
+    flex-direction: row;
     gap: 1rem;
     width: 100%;
     padding: 1.8rem 0;
@@ -531,6 +531,14 @@ footer p {
     padding: 1rem 0;
     /*border-radius: 0 0 1.5rem 1.5rem;*/
   }
+
+  .nav-bar ul {
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    padding: 1.8rem 0;
+  }
+
   .nav-bar.show {
     display: flex;
   }
